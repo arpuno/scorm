@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 7/2/2017 3:45:49 PM using CourseLab 170305 -->
+<!-- Presentation file, saved 7/2/2017 10:35:33 PM using CourseLab 170305 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -10,7 +10,14 @@
 <frame id="FRAME_16" dur="0" infinite="0">
 <object id="TXT_5" x="252" y="128" w="477" h="160" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 477px; height: 160px; box-sizing: border-box;"><p style="font-family: robotoregular, Arial, Helvetica, sans-serif; font-size: 18px; text-align: center;"><span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px">Добро пожаловать в SCORM-пакет. Меня зовут Потапов Андрей и сегодня мы узнаем - почему я никак не могу выбрать тему для ВКР.</span></p></div>]]>
+<![CDATA[<div style="width: 477px; height: 160px; box-sizing: border-box;"><p style="font-family: robotoregular, Arial, Helvetica, sans-serif; font-size: 18px; text-align: center;">Moodle и электронное обучение</p>
+
+<p style="font-family: robotoregular, Arial, Helvetica, sans-serif; font-size: 18px; text-align: center;">&nbsp;</p></div>]]>
+</data>
+</object>
+<object id="IMG_1" x="278" y="176" w="444" h="250" z="101" display="frame" begin="0" preload="images/moodle-lms_j7vj.h250.jpg">
+<data>
+<![CDATA[<img src="images/moodle-lms_j7vj.h250.jpg" style="width: 444px; height: 250px;border-width: 0px;"/>]]>
 </data>
 </object>
 <timeline>
@@ -34,20 +41,27 @@
 												</div></td><td class="cl-stats-right"><table class="cl-stats-obj-table"><tr><td class="cl-stats-obj-obj cl-stats-obj-header">Цели</td><td class="cl-stats-obj-score cl-stats-obj-header">Баллы</td></tr></table></td></tr></table></div></div><div class="cl-results-variants cl-results-parent"><div class="cl-variants-header"><table class="cl-results-header-table"><tr><td class="cl-results-header-switch-cell"><div class="cl-switch"><svg class="cl-switch" width="20" height="20" viewBox="0 0 48 48"><g class="cl-switch-group"><path class="cl-switch-path-circle" d="M24,0C10.745,0,0,10.746,0,24c0,13.255,10.745,24,24,24s24-10.744,24-24C48,10.746,37.255,0,24,0z M24.029,43.844c-11.023,0-19.959-8.936-19.959-19.958S13.006,3.926,24.029,3.926c11.022,0,19.959,8.936,19.959,19.959 S35.052,43.844,24.029,43.844z" /><path class="cl-switch-path-plus" d="M32.56,21.902h-6.458l0.008-6.576c-0.026-0.454-0.221-1.354-1.331-1.356L23.2,13.968 c-1.181-0.001-1.282,1.165-1.288,1.47l-0.008,6.463h-6.607c-1.22,0-1.323,0.941-1.328,1.21v1.809 c0.006,0.247,0.107,1.178,1.328,1.178h6.602l-0.008,6.602c-0.002,1.219,0.939,1.324,1.209,1.33l1.809,0.002 c0.247-0.006,1.178-0.107,1.18-1.326l0.008-6.607h6.581c0.454-0.027,1.354-0.223,1.354-1.333v-1.578 C34.031,22.007,32.865,21.908,32.56,21.902z" /><path class="cl-switch-path-minus" d="M32.677,26.099c0.454-0.027,1.354-0.223,1.354-1.333v-1.578c0-1.181-1.166-1.28-1.472-1.286H15.297 c-1.22,0-1.323,0.941-1.328,1.21v1.809c0.006,0.247,0.108,1.178,1.328,1.178H32.677z" /></g></svg></div></td><td class="cl-results-header-title">Результаты</td></tr></table></div><div class="cl-results-contents" /></div></div></div></div></div></div>]]>
 </data>
 </object>
-<object id="TXT_9" x="297" y="84" w="414" h="174" z="101" display="frame" begin="0">
+<object id="TXT_9" x="208" y="84" w="592" h="285" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 414px; height: 174px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-family:roboto_condensedregular,arial narrow,sans-serif;"><font color="#333333">Тема моей ВКР - это загадка, даже для меня.&nbsp;</font></span></p>
+<![CDATA[<div style="width: 592px; height: 285px; box-sizing: border-box;"><p style="margin-top: 0.5em; margin-bottom: 0.5em; color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;"><b>Электронное обучение</b>&nbsp;(<a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" style="text-decoration: none; color: rgb(11, 0, 128); background: none;" title="Английский язык">англ.</a>&nbsp;<i><span lang="en" xml:lang="en">E-learning</span></i>, сокращение от&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" style="text-decoration: none; color: rgb(11, 0, 128); background: none;" title="Английский язык">англ.</a>&nbsp;<i><span lang="en" xml:lang="en">Electronic Learning</span></i>)&nbsp;&mdash; это система обучения при помощи информационных и электронных технологий.</p>
 
-<p style="text-align: center;"><span style="font-family:roboto_condensedregular,arial narrow,sans-serif;"><font color="#333333">Подумайте сами - это будет лишь через год, а мне уже нужно определиться с ней.</font></span></p>
+<p style="margin-top: 0.5em; margin-bottom: 0.5em; color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">Определение специалистов&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%AE%D0%9D%D0%95%D0%A1%D0%9A%D0%9E" style="text-decoration: none; color: rgb(11, 0, 128); background: none;" title="ЮНЕСКО">ЮНЕСКО</a>: &laquo;e-Learning&nbsp;&mdash; обучение с помощью&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82" style="text-decoration: none; color: rgb(11, 0, 128); background: none;" title="Интернет">интернета</a>&nbsp;и&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0" style="text-decoration: none; color: rgb(11, 0, 128); background: none;" title="Мультимедиа">мультимедиа</a>&raquo;.</p>
 
-<p style="text-align: center;"><span style="font-family:roboto_condensedregular,arial narrow,sans-serif;"><font color="#333333">Вы определились с тем, что будете есть завтра? Лично я - нет.</font></span></p>
+<p style="margin-top: 0.5em; margin-bottom: 0.5em; color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">К электронному обучению относится:</p>
 
-<p style="text-align: center;"><span style="font-family:roboto_condensedregular,arial narrow,sans-serif;"><font color="#333333">Так как же я могу определиться с темой?</font></span></p></div>]]>
-</data>
-</object>
-<object id="IMG_3" x="465" y="235" w="73" h="116" z="102" display="frame" begin="0" preload="images/1.png">
-<data>
-<![CDATA[<img src="images/1.png" style="width: 73px; height: 116px;border-width: 0px;"/>]]>
+<ul style="margin-top: 0.3em; margin-left: 1.6em; padding: 0px; list-style-image: url(data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20version%3D%221.1%22%20width%3D%225%22%20height%3D%2213%22%3E%0A%3Ccircle%20cx%3D%222.5%22%20cy%3D%229.5%22%20r%3D%222.5%22%20fill%3D%22%2300528c%22%2F%3E%0A%3C%2Fsvg%3E%0A); color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">
+	<li style="margin-bottom: 0.1em;">самостоятельная работа с электронными материалами, с использованием&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" style="text-decoration: none; color: rgb(11, 0, 128); background: none;" title="Персональный компьютер">персонального компьютера</a>,&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BC%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" style="text-decoration: none; color: rgb(11, 0, 128); background: none;" title="Карманный персональный компьютер">КПК</a>,&nbsp;<a class="mw-redirect" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD" style="text-decoration: none; color: rgb(11, 0, 128); background: none;" title="Мобильный телефон">мобильного телефона</a>,&nbsp;<a href="https://ru.wikipedia.org/wiki/DVD-%D0%BF%D1%80%D0%BE%D0%B8%D0%B3%D1%80%D1%8B%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" style="text-decoration: none; color: rgb(11, 0, 128); background: none;" title="DVD-проигрыватель">DVD-проигрывателя</a>,&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%BE%D1%80" style="text-decoration: none; color: rgb(11, 0, 128); background: none;" title="Телевизор">телевизора</a>&nbsp;и других;</li>
+	<li style="margin-bottom: 0.1em;">получение консультаций, советов, оценок у удалённого (территориально) эксперта (преподавателя), возможность дистанционного взаимодействия;</li>
+	<li style="margin-bottom: 0.1em;">создание распределённого сообщества пользователей (социальных сетей), ведущих общую виртуальную учебную деятельность;</li>
+	<li style="margin-bottom: 0.1em;">своевременная круглосуточная доставка&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA" style="text-decoration: none; color: rgb(11, 0, 128); background: none;" title="Электронный учебник">электронных учебных материалов</a>; стандарты и спецификации на электронные учебные материалы и технологии, дистанционные средства обучения;</li>
+	<li style="margin-bottom: 0.1em;">формирование и повышение информационной культуры у всех руководителей предприятий и подразделений группы и овладение ими современными информационными технологиями, повышение эффективности своей обычной деятельности;</li>
+	<li style="margin-bottom: 0.1em;">освоение и популяризация инновационных педагогических технологий, передача их преподавателям;</li>
+	<li style="margin-bottom: 0.1em;">возможность развивать учебные веб-ресурсы;</li>
+	<li style="margin-bottom: 0.1em;">возможность в любое время и в любом месте получить современные знания, находящиеся в любой доступной точке мира;</li>
+	<li style="margin-bottom: 0.1em;">доступность высшего образования лицам с особенностями психофизического развития.</li>
+</ul>
+
+<p style="text-align: center;"><b style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">Moodle</b><span style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">&nbsp;&mdash; система управления курсами (</span><a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" style="text-decoration: none; color: rgb(11, 0, 128); background-image: none; font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2; background-position: initial initial; background-repeat: initial initial;" title="Электронное обучение">электронное обучение</a><span style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">), также известная как&nbsp;</span><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC" style="text-decoration: none; color: rgb(11, 0, 128); background-image: none; font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2; background-position: initial initial; background-repeat: initial initial;" title="Система управления обучением">система управления обучением</a><span style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">&nbsp;или&nbsp;</span><a class="new" href="https://ru.wikipedia.org/w/index.php?title=%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D0%B0&amp;action=edit&amp;redlink=1" style="text-decoration: none; color: rgb(165, 88, 88); background-image: none; font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2; background-position: initial initial; background-repeat: initial initial;" title="Виртуальная обучающая среда (страница отсутствует)">виртуальная обучающая среда</a><span class="noprint" style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">&nbsp;(<i><a class="extiw" href="https://en.wikipedia.org/wiki/Virtual_learning_environment" style="text-decoration: none; color: rgb(102, 51, 102); background: none;" title="en:Virtual learning environment">англ.</a></i>)</span><span style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">.</span></p></div>]]>
 </data>
 </object>
 <actionboxes>
@@ -80,14 +94,22 @@
 												</div></td><td class="cl-stats-right"><table class="cl-stats-obj-table"><tr><td class="cl-stats-obj-obj cl-stats-obj-header">Цели</td><td class="cl-stats-obj-score cl-stats-obj-header">Баллы</td></tr></table></td></tr></table></div></div><div class="cl-results-variants cl-results-parent"><div class="cl-variants-header"><table class="cl-results-header-table"><tr><td class="cl-results-header-switch-cell"><div class="cl-switch"><svg class="cl-switch" width="20" height="20" viewBox="0 0 48 48"><g class="cl-switch-group"><path class="cl-switch-path-circle" d="M24,0C10.745,0,0,10.746,0,24c0,13.255,10.745,24,24,24s24-10.744,24-24C48,10.746,37.255,0,24,0z M24.029,43.844c-11.023,0-19.959-8.936-19.959-19.958S13.006,3.926,24.029,3.926c11.022,0,19.959,8.936,19.959,19.959 S35.052,43.844,24.029,43.844z" /><path class="cl-switch-path-plus" d="M32.56,21.902h-6.458l0.008-6.576c-0.026-0.454-0.221-1.354-1.331-1.356L23.2,13.968 c-1.181-0.001-1.282,1.165-1.288,1.47l-0.008,6.463h-6.607c-1.22,0-1.323,0.941-1.328,1.21v1.809 c0.006,0.247,0.107,1.178,1.328,1.178h6.602l-0.008,6.602c-0.002,1.219,0.939,1.324,1.209,1.33l1.809,0.002 c0.247-0.006,1.178-0.107,1.18-1.326l0.008-6.607h6.581c0.454-0.027,1.354-0.223,1.354-1.333v-1.578 C34.031,22.007,32.865,21.908,32.56,21.902z" /><path class="cl-switch-path-minus" d="M32.677,26.099c0.454-0.027,1.354-0.223,1.354-1.333v-1.578c0-1.181-1.166-1.28-1.472-1.286H15.297 c-1.22,0-1.323,0.941-1.328,1.21v1.809c0.006,0.247,0.108,1.178,1.328,1.178H32.677z" /></g></svg></div></td><td class="cl-results-header-title">Результаты</td></tr></table></div><div class="cl-results-contents" /></div></div></div></div></div></div>]]>
 </data>
 </object>
-<object id="TXT_10" x="297" y="84" w="414" h="76" z="101" display="frame" begin="0">
+<object id="TXT_10" x="212" y="82" w="586" h="283" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 414px; height: 76px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-family:roboto_condensedregular,arial narrow,sans-serif;"><font color="#333333">Быть может, по наводке моего <strike>сэнсэя</strike>&nbsp;преподавателя, она будет связана с моим образом жизни, которого также придерживается n% людей?</font></span></p></div>]]>
-</data>
-</object>
-<object id="IMG_4" x="309" y="149" w="388" h="216" z="102" display="frame" begin="0" preload="images/Soy-whey-protein-diet.jpg">
-<data>
-<![CDATA[<img src="images/Soy-whey-protein-diet.jpg" style="width: 388px; height: 216px;border-width: 0px;"/>]]>
+<![CDATA[<div style="width: 586px; height: 283px; box-sizing: border-box;"><p style="margin-top: 0.5em; margin-bottom: 0.5em; color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">В 2010 году появилась ещё одна форма обучения&nbsp;&mdash;&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B9_%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BA%D1%83%D1%80%D1%81" style="text-decoration: none; color: rgb(11, 0, 128); background: none;" title="Массовый открытый онлайн-курс">массовые открытые онлайн-курсы</a>, которые позволяют одновременно обучать сотни тысяч студентов<sup class="reference" id="cite_ref-2" style="line-height: 1em; unicode-bidi: isolate; white-space: nowrap; font-size: 11.2px;"><a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5#cite_note-2" style="text-decoration: none; color: rgb(11, 0, 128); background: none;">[2]</a></sup>.</p>
+
+<p style="margin-top: 0.5em; margin-bottom: 0.5em; color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">Концепция электронного обучения современного образца развилась вместе с технологиями интернет-соединений и включает в себя возможность практически из любого места загрузить дополнительные материалы, подкрепляющие полученную с помощью электронных пособий теорию, передать выполненное задание, посоветоваться с преподавателем. Главное, чтобы все эти функции поддерживал носитель электронных программ. Сейчас развитие электронного обучения напрямую зависит от развития носителей, но электронные учебники, полностью раскрывающие его потенциал, пока находятся в стадии разработки.</p>
+
+<p style="margin-top: 0.5em; margin-bottom: 0.5em; color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">Электронное образование имеет ряд преимуществ перед традиционным:<sup class="reference" id="cite_ref-.D0.A1.D0.B0.D1.82.D1.83.D0.BD.D0.B8.D0.BD.D0.B0_1-1" style="line-height: 1em; unicode-bidi: isolate; white-space: nowrap; font-size: 11.2px;"><a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5#cite_note-.D0.A1.D0.B0.D1.82.D1.83.D0.BD.D0.B8.D0.BD.D0.B0-1" style="text-decoration: none; color: rgb(11, 0, 128); background: none;">[1]</a></sup></p>
+
+<ol style="margin-top: 0.3em; margin-left: 3.2em; padding: 0px; list-style-image: none; color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">
+	<li style="margin-bottom: 0.1em;"><i>Свобода доступа</i>&nbsp;&mdash; учащийся может заниматься практически в любом месте. Далеко не все функции электронного образования реализуются через интернет. Взрослый учащийся может обучаться без отрыва от основной работы.</li>
+	<li style="margin-bottom: 0.1em;"><i>Снижение затрат на обучение</i>&nbsp;&mdash; учащийся несёт затраты на носитель информации, но не несет на методическую литературу. Кроме того, экономия растет за счет зарплат, которые не нужно платить педагогам, содержание учебных заведений и так далее. Производство электронных учебных материалов не подразумевает вырубку леса.</li>
+	<li style="margin-bottom: 0.1em;"><i>Гибкость обучения</i>&nbsp;&mdash; продолжительность и последовательность изучения материалов слушатель выбирает сам, полностью адаптируя весь процесс обучения под свои возможности и потребности.</li>
+	<li style="margin-bottom: 0.1em;"><i>Возможность развиваться в ногу со временем</i>&nbsp;&mdash; пользователи электронных курсов: и преподаватели, и студенты развивают свои навыки и знания в соответствии с новейшими современными технологиями и стандартами. Электронные курсы также позволяют своевременно и оперативно обновлять учебные материалы.</li>
+	<li style="margin-bottom: 0.1em;"><i>Потенциально равные возможности обучения</i>&nbsp;&mdash; обучение становится независимым от качества преподавания в конкретном учебном заведении.</li>
+	<li style="margin-bottom: 0.1em;"><i>Возможность определять критерии оценки знаний</i>&nbsp;&mdash; в электронном обучении имеется возможность выставлять четкие критерии, по которым оцениваются знания, полученные студентом в процессе обучения.</li>
+</ol></div>]]>
 </data>
 </object>
 <actionboxes>
@@ -120,15 +142,9 @@
 												</div></td><td class="cl-stats-right"><table class="cl-stats-obj-table"><tr><td class="cl-stats-obj-obj cl-stats-obj-header">Цели</td><td class="cl-stats-obj-score cl-stats-obj-header">Баллы</td></tr></table></td></tr></table></div></div><div class="cl-results-variants cl-results-parent"><div class="cl-variants-header"><table class="cl-results-header-table"><tr><td class="cl-results-header-switch-cell"><div class="cl-switch"><svg class="cl-switch" width="20" height="20" viewBox="0 0 48 48"><g class="cl-switch-group"><path class="cl-switch-path-circle" d="M24,0C10.745,0,0,10.746,0,24c0,13.255,10.745,24,24,24s24-10.744,24-24C48,10.746,37.255,0,24,0z M24.029,43.844c-11.023,0-19.959-8.936-19.959-19.958S13.006,3.926,24.029,3.926c11.022,0,19.959,8.936,19.959,19.959 S35.052,43.844,24.029,43.844z" /><path class="cl-switch-path-plus" d="M32.56,21.902h-6.458l0.008-6.576c-0.026-0.454-0.221-1.354-1.331-1.356L23.2,13.968 c-1.181-0.001-1.282,1.165-1.288,1.47l-0.008,6.463h-6.607c-1.22,0-1.323,0.941-1.328,1.21v1.809 c0.006,0.247,0.107,1.178,1.328,1.178h6.602l-0.008,6.602c-0.002,1.219,0.939,1.324,1.209,1.33l1.809,0.002 c0.247-0.006,1.178-0.107,1.18-1.326l0.008-6.607h6.581c0.454-0.027,1.354-0.223,1.354-1.333v-1.578 C34.031,22.007,32.865,21.908,32.56,21.902z" /><path class="cl-switch-path-minus" d="M32.677,26.099c0.454-0.027,1.354-0.223,1.354-1.333v-1.578c0-1.181-1.166-1.28-1.472-1.286H15.297 c-1.22,0-1.323,0.941-1.328,1.21v1.809c0.006,0.247,0.108,1.178,1.328,1.178H32.677z" /></g></svg></div></td><td class="cl-results-header-title">Результаты</td></tr></table></div><div class="cl-results-contents" /></div></div></div></div></div></div>]]>
 </data>
 </object>
-<object id="TXT_11" x="297" y="84" w="414" h="118" z="101" display="frame" begin="0">
+<object id="TXT_11" x="214" y="84" w="586" h="299" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 414px; height: 118px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-family:roboto_condensedregular,arial narrow,sans-serif;"><font color="#333333">Кто знает?&nbsp;</font></span></p>
-
-<p style="text-align: center;"><span style="font-family:roboto_condensedregular,arial narrow,sans-serif;"><font color="#333333">А какой</font></span><span style="font-family:roboto_condensedregular,arial narrow,sans-serif;"><font color="#333333">&nbsp;в этом смысл?</font></span></p>
-
-<p style="text-align: center;"><span style="font-family:roboto_condensedregular,arial narrow,sans-serif;"><font color="#333333">Вы наблюдаете, как растёт шкала вашего результата. Вам это нравится.</font></span></p>
-
-<p style="text-align: center;">&nbsp;</p></div>]]>
+<![CDATA[<div style="width: 586px; height: 299px; box-sizing: border-box;"><p style="text-align: center;"><b style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">Moodle</b><span style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">&nbsp;&mdash; система управления курсами (</span><a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" style="text-decoration: none; color: rgb(11, 0, 128); background-image: none; font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2; background-position: initial initial; background-repeat: initial initial;" title="Электронное обучение">электронное обучение</a><span style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">), также известная как&nbsp;</span><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC" style="text-decoration: none; color: rgb(11, 0, 128); background-image: none; font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2; background-position: initial initial; background-repeat: initial initial;" title="Система управления обучением">система управления обучением</a><span style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">&nbsp;или&nbsp;</span><a class="new" href="https://ru.wikipedia.org/w/index.php?title=%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D0%B0&amp;action=edit&amp;redlink=1" style="text-decoration: none; color: rgb(165, 88, 88); background-image: none; font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2; background-position: initial initial; background-repeat: initial initial;" title="Виртуальная обучающая среда (страница отсутствует)">виртуальная обучающая среда</a><span class="noprint" style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">&nbsp;(<i><a class="extiw" href="https://en.wikipedia.org/wiki/Virtual_learning_environment" style="text-decoration: none; color: rgb(102, 51, 102); background: none;" title="en:Virtual learning environment">англ.</a></i>)</span><span style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">. Является аббревиатурой от&nbsp;</span><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" style="text-decoration: none; color: rgb(11, 0, 128); background-image: none; font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2; background-position: initial initial; background-repeat: initial initial;" title="Английский язык">англ.</a><span style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">&nbsp;</span><i style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; orphans: 2; widows: 2;"><span lang="en" xml:lang="en">Modular Object-Oriented Dynamic Learning Environment</span></i><span style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">&nbsp;(модульная объектно-ориентированная динамическая обучающая среда). Представляет собой&nbsp;</span><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" style="text-decoration: none; color: rgb(11, 0, 128); background-image: none; font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2; background-position: initial initial; background-repeat: initial initial;" title="Свободное программное обеспечение">свободное</a><span style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">&nbsp;(распространяющееся по лицензии&nbsp;</span><a href="https://ru.wikipedia.org/wiki/GNU_General_Public_License" style="text-decoration: none; color: rgb(11, 0, 128); background-image: none; font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2; background-position: initial initial; background-repeat: initial initial;" title="GNU General Public License"><i>GNU GPL</i></a><span style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">) веб-приложение, предоставляющее возможность создавать сайты для онлайн-обучения.</span></p></div>]]>
 </data>
 </object>
 <actionboxes>
@@ -163,9 +179,7 @@
 </object>
 <object id="TXT_12" x="297" y="84" w="414" h="118" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 414px; height: 118px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-family:roboto_condensedregular,arial narrow,sans-serif;"><font color="#333333">Вы могли заметить, что с каждым слайдом, ваш результат увеличивается на очередную степень двойки. А вы как думали - мы тут не мешки ворочаем!&nbsp;</font></span></p>
-
-<p style="text-align: center;">&nbsp;</p></div>]]>
+<![CDATA[<div style="width: 414px; height: 118px; box-sizing: border-box;"><p style="text-align: center;"><b style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">Free Dean&#39;s Office</b><span style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">&nbsp;&mdash; модуль для среды дистанционного обучения&nbsp;</span><a href="https://ru.wikipedia.org/wiki/Moodle" style="text-decoration: none; color: rgb(11, 0, 128); background-image: none; font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2; background-position: initial initial; background-repeat: initial initial;" title="Moodle">Moodle</a><span style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">, предназначенный для автоматизации управления учебным процессом и сопутствующего документооборота в&nbsp;</span><a class="mw-redirect" href="https://ru.wikipedia.org/wiki/%D0%92%D0%A3%D0%97" style="text-decoration: none; color: rgb(11, 0, 128); background-image: none; font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2; background-position: initial initial; background-repeat: initial initial;" title="ВУЗ">ВУЗ</a><span style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">е,&nbsp;</span><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%B4%D0%B6" style="text-decoration: none; color: rgb(11, 0, 128); background-image: none; font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2; background-position: initial initial; background-repeat: initial initial;" title="Колледж">колледже</a><span style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">&nbsp;и&nbsp;</span><a href="https://ru.wikipedia.org/wiki/%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0" style="text-decoration: none; color: rgb(11, 0, 128); background-image: none; font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2; background-position: initial initial; background-repeat: initial initial;" title="Школа">школе</a><span style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">. Включает в себя подсистему электронных журналов и&nbsp;</span><a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D0%B8_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB" style="text-decoration: none; color: rgb(11, 0, 128); background-image: none; font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2; background-position: initial initial; background-repeat: initial initial;" title="Электронный дневник и журнал">электронных дневников</a><span style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; orphans: 2; widows: 2;">.</span></p></div>]]>
 </data>
 </object>
 <actionboxes>
@@ -198,16 +212,13 @@
 												</div></td><td class="cl-stats-right"><table class="cl-stats-obj-table"><tr><td class="cl-stats-obj-obj cl-stats-obj-header">Цели</td><td class="cl-stats-obj-score cl-stats-obj-header">Баллы</td></tr></table></td></tr></table></div></div><div class="cl-results-variants cl-results-parent"><div class="cl-variants-header"><table class="cl-results-header-table"><tr><td class="cl-results-header-switch-cell"><div class="cl-switch"><svg class="cl-switch" width="20" height="20" viewBox="0 0 48 48"><g class="cl-switch-group"><path class="cl-switch-path-circle" d="M24,0C10.745,0,0,10.746,0,24c0,13.255,10.745,24,24,24s24-10.744,24-24C48,10.746,37.255,0,24,0z M24.029,43.844c-11.023,0-19.959-8.936-19.959-19.958S13.006,3.926,24.029,3.926c11.022,0,19.959,8.936,19.959,19.959 S35.052,43.844,24.029,43.844z" /><path class="cl-switch-path-plus" d="M32.56,21.902h-6.458l0.008-6.576c-0.026-0.454-0.221-1.354-1.331-1.356L23.2,13.968 c-1.181-0.001-1.282,1.165-1.288,1.47l-0.008,6.463h-6.607c-1.22,0-1.323,0.941-1.328,1.21v1.809 c0.006,0.247,0.107,1.178,1.328,1.178h6.602l-0.008,6.602c-0.002,1.219,0.939,1.324,1.209,1.33l1.809,0.002 c0.247-0.006,1.178-0.107,1.18-1.326l0.008-6.607h6.581c0.454-0.027,1.354-0.223,1.354-1.333v-1.578 C34.031,22.007,32.865,21.908,32.56,21.902z" /><path class="cl-switch-path-minus" d="M32.677,26.099c0.454-0.027,1.354-0.223,1.354-1.333v-1.578c0-1.181-1.166-1.28-1.472-1.286H15.297 c-1.22,0-1.323,0.941-1.328,1.21v1.809c0.006,0.247,0.108,1.178,1.328,1.178H32.677z" /></g></svg></div></td><td class="cl-results-header-title">Результаты</td></tr></table></div><div class="cl-results-contents" /></div></div></div></div></div></div>]]>
 </data>
 </object>
-<object id="TXT_13" x="297" y="84" w="414" h="118" z="101" display="frame" begin="0">
+<object id="TXT_13" x="297" y="84" w="414" h="215" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 414px; height: 118px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-family:roboto_condensedregular,arial narrow,sans-serif;"><font color="#333333">К сожалению, нам придётся прирвать беседу. Но не расстраивайтесь! Я приготовил вам небольшой сюрприз!</font></span></p>
+<![CDATA[<div style="width: 414px; height: 215px; box-sizing: border-box;"><div style="text-align: center;">&nbsp;</div>
 
-<p style="text-align: center;">&nbsp;</p></div>]]>
-</data>
-</object>
-<object id="IMG_5" x="447" y="197" w="128" h="128" z="102" display="frame" begin="0" preload="images/3auka.png">
-<data>
-<![CDATA[<img src="images/3auka.png" style="width: 128px; height: 128px;border-width: 0px;"/>]]>
+<div><span style="color: rgb(33, 33, 33); font-family: arial, sans-serif; font-size: 16px; font-style: normal; orphans: 2; white-space: pre-wrap; widows: 2;">MoodleCloud - это услуга хостинга, предоставляемая людьми, которые делают Moodle, где вы можете получить полностью размещенный сайт Moodle (мы называем это сайтом MoodleCloud). После регистрации у вас будет доступ к вашему MoodleCloud Portal для управления вашей учетной записью и вашим сайтом, с некоторыми из самых популярных плагинов сообщества, готовыми к работе. Вы можете выбирать из нескольких различных пакетов, которые масштабируются в соответствии с вашими потребностями.</span></div>
+
+<p>&nbsp;</p></div>]]>
 </data>
 </object>
 <actionboxes>
@@ -247,7 +258,7 @@
 </object>
 <object id="TXT_7" x="357" y="413" w="300" h="50" z="102" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 300px; height: 50px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-family:roboto_condensedregular,arial narrow,sans-serif;"><font color="#333333">Далее вас ждёт увлекательнейшее тестирование!</font></span></p></div>]]>
+<![CDATA[<div style="width: 300px; height: 50px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-family:roboto_condensedregular,arial narrow,sans-serif;"><font color="#333333">Далее вас ждёт&nbsp;тестирование!</font></span></p></div>]]>
 </data>
 </object>
 <timeline>
@@ -321,6 +332,11 @@
 <![CDATA[<div style="width: 300px; height: 50px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:20px;"><span style="font-family: clear_sansregular, Arial, sans-serif; color: rgb(51, 51, 51);">Тест завершён успешно. Поздравляю!</span></span></p></div>]]>
 </data>
 </object>
+<object id="TXT_15" x="360" y="149" w="300" h="67" z="102" display="time" begin="0">
+<data>
+<![CDATA[<div style="width: 300px; height: 67px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-family:roboto_condensedregular,arial narrow,sans-serif;"><font color="#333333">Вы не набрали неободимый для успешного завершения теста балл.&nbsp;</font></span></p></div>]]>
+</data>
+</object>
 <actionboxes>
 <actionbox id="ACTIONBOX_6">
 <RESPONSE name="ACTIONBOX_6_1" event="onload" type="link">
@@ -331,12 +347,17 @@
 </SET>
 <SET type="completion" fs_object="" objectid="" fs_property="" color_bg_switch="no" color_bg="#FFFFFF" color_border_switch="no" color_border="#000000" borderwidth_switch="no" borderwidth="0" opacity_switch="no" opacity="100" drag_switch="no" drag="no" fs_master="" master="" fs_state="" state="default" fs_objective="" pid="total" fs_score="" oid="" additive="replace" score="0" fs_cs="" cs="c" fs_ss="" ss="u">
 </SET>
+<ELSE>
+<DISPLAY pid="TXT_15" display="inline" transition="-1" fs_dur="" dur="1000">
+</DISPLAY>
+</ELSE>
 </IF>
 </RESPONSE>
 </actionbox>
 </actionboxes>
 <timeline>
 <timeaction type="hide" begin="0" targetid="TXT_14"/>
+<timeaction type="hide" begin="0" targetid="TXT_15"/>
 <timeaction type="actionbox" begin="0" targetid="ACTIONBOX_6"/>
 </timeline>
 </frame>
@@ -5629,7 +5650,7 @@
 <item>
 <question_type>choice</question_type>
 <display_question_text>yes</display_question_text>
-<text_main><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">Ты дурак?</span>]]></text_main>
+<text_main><![CDATA[<font color="#333333" face="clear_sansregular, Arial, sans-serif">Версия SCORM-пакета, поддерживаемая MoodleCloud:</font>]]></text_main>
 <q_text_true><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">Да</span>]]></q_text_true>
 <q_text_false><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">Нет</span>]]></q_text_false>
 <q_elements_order>tf</q_elements_order>
@@ -5638,22 +5659,22 @@
 <q_variants_choice>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<p><span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">Да</span></p>]]></q_variant>
+<q_variant><![CDATA[<p><span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">2004</span></p>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">Нет</span>]]></q_variant>
+<q_variant><![CDATA[<font color="#333333" face="clear_sansregular, Arial, sans-serif">4.2</font>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<p><span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">Быть может</span></p>]]></q_variant>
+<q_variant><![CDATA[<p><span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">2.4</span></p>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<p><span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">А не дурак ли ты, раз задаёшь такие вопросы?</span></p>]]></q_variant>
+<q_variant><![CDATA[<p><span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">1.2</span></p>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 </q_variants_choice>
@@ -5695,7 +5716,7 @@
 <item>
 <question_type>numeric</question_type>
 <display_question_text>yes</display_question_text>
-<text_main><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">По шкале от 0 до 10 - как сильно вас волнует чужое мнение?</span>]]></text_main>
+<text_main><![CDATA[<font color="#333333">Актуальная версия Moodle:</font>]]></text_main>
 <q_text_true><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">Да</span>]]></q_text_true>
 <q_text_false><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">Нет</span>]]></q_text_false>
 <q_elements_order>tf</q_elements_order>
@@ -5708,12 +5729,12 @@
 <q_variants_order></q_variants_order>
 <q_variants_numeric>
 <item>
-<q_explanation><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;"></span>]]></q_explanation>
+<q_explanation><![CDATA[Через точку.]]></q_explanation>
 <q_exp_position>right</q_exp_position>
 <q_conditions>
 <item>
 <q_condition>eq</q_condition>
-<q_value>0</q_value>
+<q_value>3.3</q_value>
 </item>
 </q_conditions>
 <q_cond_logic>AND</q_cond_logic>
@@ -5812,7 +5833,7 @@
 <item>
 <question_type>choice</question_type>
 <display_question_text>yes</display_question_text>
-<text_main><![CDATA[<span style="font-family:roboto_condensedregular,arial narrow,sans-serif;"><font color="#333333">Вопросы лёгкие, потому что:</font></span>]]></text_main>
+<text_main><![CDATA[<font color="#333333">В MoodleCloud не существует роли:</font>]]></text_main>
 <q_text_true><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">Да</span>]]></q_text_true>
 <q_text_false><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">Нет</span>]]></q_text_false>
 <q_elements_order>tf</q_elements_order>
@@ -5821,24 +5842,22 @@
 <q_variants_choice>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<p><span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">Я не выбрал тему для ВКР</span></p>
-
-<p>&nbsp;</p>]]></q_variant>
+<q_variant><![CDATA[<p><font color="#333333">Manager</font></p>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">Мы лишь учимся.</span>]]></q_variant>
+<q_variant><![CDATA[<p><span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">Non-editing teacher</span></p>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">А почему они должны быть сложными?</span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">CEO</span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<font color="#333333" face="clear_sansregular, Arial, sans-serif">Здесь есть вопросы?</font>]]></q_variant>
+<q_variant><![CDATA[<font color="#333333" face="clear_sansregular, Arial, sans-serif">Student</font>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 </q_variants_choice>
@@ -5878,9 +5897,9 @@
 <fb_timeout><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">К сожалению время, отведенное на ответ, закончилось</span>]]></fb_timeout>
 </item>
 <item>
-<question_type>choice</question_type>
+<question_type>fib</question_type>
 <display_question_text>yes</display_question_text>
-<text_main><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">2x2=</span>]]></text_main>
+<text_main><![CDATA[<font color="#333333">Название дисциплины, изучающей возможности электронного образования:</font>]]></text_main>
 <q_text_true><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">Да</span>]]></q_text_true>
 <q_text_false><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;">Нет</span>]]></q_text_false>
 <q_elements_order>tf</q_elements_order>
@@ -5914,8 +5933,27 @@
 <q_variants_order></q_variants_order>
 <q_variants_numeric></q_variants_numeric>
 <q_var_logic_numeric>AND</q_var_logic_numeric>
-<q_variants_fib></q_variants_fib>
-<q_var_logic_fib>AND</q_var_logic_fib>
+<q_variants_fib>
+<item>
+<q_explanation><![CDATA[<span style="font-family: clear_sansregular, Arial, sans-serif;font-size: 16px; color: #333333;"></span>]]></q_explanation>
+<q_exp_position>right</q_exp_position>
+<q_conditions>
+<item>
+<q_condition>eq</q_condition>
+<q_value>Технологии Дистанционного Обучения</q_value>
+<q_case>no</q_case>
+</item>
+<item>
+<q_condition>eq</q_condition>
+<q_value>ТДО</q_value>
+<q_case>no</q_case>
+</item>
+</q_conditions>
+<q_cond_logic>OR</q_cond_logic>
+<q_width>0</q_width>
+</item>
+</q_variants_fib>
+<q_var_logic_fib>OR</q_var_logic_fib>
 <q_variants_oto></q_variants_oto>
 <q_attempts_type>fixed</q_attempts_type>
 <q_attempts>1</q_attempts>

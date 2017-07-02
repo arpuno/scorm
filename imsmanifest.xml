@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!-- This is a SCORM 1.2 manifest file, created 7/2/2017 3:45:59 PM by Туша using CourseLab 170305 -->
-<manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation=" http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd" identifier="MANIFEST-FB83AE3A_0CF7_4A5E_91D1_3F540D78A0F0" version="1.0">
+<!-- This is a SCORM 1.2 manifest file, created 7/2/2017 10:35:52 PM by Туша using CourseLab 170305 -->
+<manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation=" http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd" identifier="MANIFEST-0192EF60_7364_48AB_A6F7_6FA62DDC9BDE" version="1.0">
 <metadata>
 <schema>ADL SCORM</schema>
 <schemaversion>1.2</schemaversion>
@@ -106,10 +106,8 @@
 <file href="1/start.html"/>
 <file href="1/splash.xml"/>
 <file href="1/runtime.xml"/>
-<file href="1/images/1.png"/>
-<file href="1/images/3auka.png"/>
 <file href="1/images/course.css"/>
-<file href="1/images/Soy-whey-protein-diet.jpg"/>
+<file href="1/images/moodle-lms_j7vj.h250.jpg"/>
 <dependency identifierref="RESCOURSEIMAGES"/>
 </resource>
 </resources>
